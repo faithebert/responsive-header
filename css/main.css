@@ -116,6 +116,16 @@ li a:hover {
     margin: 0 .75em;
   }
 
+  li {
+    width: auto;
+    padding: .5em;
+  }
+
+  header {
+    margin: 0;
+    padding-top: .5em;
+  }
+
 }
 
 @media only screen and (min-width: 90em) {
