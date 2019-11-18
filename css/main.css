@@ -97,6 +97,14 @@ li a:hover {
     font: 110%/1.4;
   }
 
+  header {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: space-between;
+  }
+
+
 }
 
 @media only screen and (min-width: 90em) {
@@ -104,5 +112,7 @@ li a:hover {
   body {
     font: 130%/1.5;
   }
+
+
 
 }
