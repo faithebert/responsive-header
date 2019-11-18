@@ -104,6 +104,11 @@ li a:hover {
     justify-content: space-between;
   }
 
+  nav {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 .75rem;
+  }
 
 }
 
