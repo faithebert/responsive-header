@@ -24,7 +24,7 @@ body {
 header {
   background-color: #18294f;
   color: #fff;
-  padding-top: 1em;
+  padding-top: .5em;
 }
 
 nav ul {
@@ -47,7 +47,6 @@ nav a {
   text-decoration: none;
   width: 100%;
   display: block;
-  margin-bottom: 1.3rem;
   padding: .5em .75em;
   white-space: nowrap;
 }
@@ -116,7 +115,6 @@ nav a:hover {
     display: flex;
     flex-wrap: wrap;
     padding: 0 .75rem;
-    width: 40%;
     justify-content: center;
     align-items: center;
   }
