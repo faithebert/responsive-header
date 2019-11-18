@@ -31,6 +31,7 @@ nav ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
+  font-size: 1.125rem;
 }
 
 header h1 {
@@ -44,7 +45,6 @@ header h1 {
 nav a {
   color: #6c8fe0;
   text-decoration: none;
-  font-size: 1.125rem;
   width: 100%;
   display: block;
   margin-bottom: 1.3rem;
@@ -136,7 +136,6 @@ nav a:hover {
 
   html {
     font-size: 130%;
-    line-height: 1.5;
   }
 
 }
